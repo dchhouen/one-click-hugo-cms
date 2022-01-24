@@ -2,8 +2,8 @@
 title: Contact
 logo: img/chess1.jpeg
 contact_entries:
-  - heading: Email
-    text: "myemail@gmail.com   "
+  - heading: Contact me
+    text: "MyEMail@gmail.com I am also online on chess.com "
   - heading: Working hours
     text: "Monday – Friday: 9AM – 5PM(PST) "
 ---
