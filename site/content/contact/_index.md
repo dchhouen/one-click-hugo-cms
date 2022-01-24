@@ -3,17 +3,13 @@ title: Contact
 logo: img/chess1.jpeg
 contact_entries:
   - heading: Contact me
-    text: "MyEMail@gmail.com I am also online on chess.com "
-  - heading: Working hours
-    text: "Monday – Friday: 9AM – 5PM(PST) "
+    text: Mega.Man@gmail.com
 ---
-
-We’d love to get in touch with you and hear your ideas and
-questions. We strive to grow and improve constantly and your feedback
-is valuable for us.
+I love to get in touch with you and hear your ideas and
+questions. 
 
 <h3 class="f4 b lh-title mb2">How can I get…?</h3>
 
-You can also use the form below for any inquiries about coffee
+You can also use the form below for any inquiries about coaching
 availability, monthly subscriptions and scheduling a 1-on-1 session
-with our baristas. Don’t be shy, drop us a line!
+with me. Don’t be shy, drop us a line!
