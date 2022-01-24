@@ -6,11 +6,11 @@ description: I have a variety of different lessons to offer to the public
 intro:
   blurbs:
     - image: /img/illustrations-coffee.svg
-      text: Great 1-on-1 consultation for Online gameplay.
+      text: 1-on-1 consultation online(Skype, Zoom, FaceTime)
     - image: /img/illustrations-coffee-gear.svg
-      text: Great 1-on-1 consultation for In-person gameplay.
+      text: 1-on-1 consultation in-person(Location TBD)
     - image: /img/illustrations-tutorials.svg
-      text: Great 1-on-1 consultation for continuous  gameplay.
+      text: Re-occurring 1-on-1 consultation
   heading: What I offer
   description: See below
 main:
