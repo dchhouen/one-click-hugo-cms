@@ -12,7 +12,7 @@ intro:
     - image: /img/illustrations-tutorials.svg
       text: Re-occurring 1-on-1 consultation
   heading: What I offer
-  description: See below
+  description: Offerings List
 main:
   heading: Great coffee with no compromises
   description: >
