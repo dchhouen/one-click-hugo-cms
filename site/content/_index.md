@@ -21,7 +21,7 @@ intro:
     I am always willing to listen to the particular interests of my students, therefore the training can be adapted to their specific needs.
 products: []
 values:
-  heading: My Impact
+  heading: Giving back to the community
   text: 10% of my coaching proceeds are used to offer free coaching to my
     community as I believe in empowering others to enjoy the wonderful game of
     chess.
