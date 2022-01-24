@@ -1,5 +1,5 @@
 ---
-title: Chess Coach FirstName LastName
+title: Chess Coach Mega Man
 subtitle: USCF Chess Coach, Twitch Content Creator, Chess.com master
 image: img/chess1.jpeg
 blurb:
