@@ -5,21 +5,18 @@ heading: What I offer
 description: I have a variety of different lessons to offer to the public
 intro:
   blurbs:
-    - image: /img/illustrations-coffee.svg
+    - image: img/chesspro1.jpeg
       text: 1-on-1 consultation online(Skype, Zoom, FaceTime)
-    - image: /img/illustrations-coffee-gear.svg
+    - image: img/chesspro1.jpeg
       text: 1-on-1 consultation in-person(Location TBD)
-    - image: /img/illustrations-tutorials.svg
+    - image: img/chesspro1.jpeg
       text: Re-occurring 1-on-1 consultation
   heading: What I offer
   description: Offerings List
 main:
-  heading: Great coffee with no compromises
-  description: >
-    We hold our coffee to the highest standards from the shrub to the cup.
-    That’s why we’re meticulous and transparent about each step of the coffee’s
-    journey. We personally visit each farm to make sure the conditions are
-    optimal for the plants, farmers and the local environment.
+  heading: Great Coaching with no compromises
+  description: |
+    I hold Coaching to the highest standards.
   image1:
     alt: A close-up of a paper filter filled with ground coffee
     image: /img/products-grid3.jpg
