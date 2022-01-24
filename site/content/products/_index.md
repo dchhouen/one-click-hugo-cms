@@ -30,7 +30,7 @@ main:
     alt: Coffee beans
     image: /img/products-grid1.jpg
 testimonials:
-  - author: Player 1
+  - author: Devang Chao
     quote: The first time I received  Mega Man coaching, I couldn’t even believe
       same of the awful plays I was doing before. I will continue to use Mega
       Man coaching
