@@ -1,9 +1,7 @@
 ---
 title: Contact
 logo: img/chess1.jpeg
-contact_entries:
-  - heading: Contact me
-    text: Mega.Man@gmail.com
+contact_entries: []
 ---
 I love to get in touch with you and hear your ideas and
 questions. 
