@@ -30,12 +30,14 @@ main:
     alt: Coffee beans
     image: /img/products-grid1.jpg
 testimonials:
-  - author: Elisabeth Kaurismäki
-    quote: The first time I tried Kaldi’s coffee, I couldn’t even believe that was
-      the same thing I’ve been drinking every morning.
+  - author: Player 1
+    quote: The first time I received  Mega Man coaching, I couldn’t even believe
+      same of the awful plays I was doing before. I will continue to use Mega
+      Man coaching
   - author: Philipp Trommler
-    quote: Kaldi is the place to go if you want the best quality coffee. I love
-      their stance on empowering farmers and transparency.
+    quote: Mega Man  is the place to go if you want the quality coaching lessons . I
+      love his ability to share that love of the game with other players and
+      students.
 full_image: /img/products-full-width.jpg
 pricing:
   heading: Monthly subscriptions
