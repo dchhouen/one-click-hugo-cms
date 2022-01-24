@@ -12,13 +12,9 @@ blurb:
     by 100pts.
 intro:
   heading: What I offer
-  text: >-
-    1-1 Coaching in-person, online
-
-
-    The analysis of own games is a key element to achieve the objectives. Additionally I consider that the practice is as essential as learning and achieving a balance between both facets is extremely important, therefore part of the training consists of training games and their subsequent detailed analysis.
-
-    I am always willing to listen to the particular interests of my students, therefore the training can be adapted to their specific needs.
+  text: 1-1 Coaching in-person and online. I am always willing to listen to the
+    particular interests of my students, therefore the training can be adapted
+    to their specific needs.
 products: []
 values:
   heading: Giving back to the community
